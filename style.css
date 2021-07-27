@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2F3437;
+}
+
+#clock {
+    text-align: center;
+    font-size: 72px;
+    font-family: Arial;
+    color: white;
+}

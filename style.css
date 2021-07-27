@@ -10,6 +10,7 @@ body {
 #clock {
     text-align: center;
     font-size: 5vw;
-    font-family: Arial;
+    font-family: 'Inter', sans-serif;
     color: white;
 }
+
